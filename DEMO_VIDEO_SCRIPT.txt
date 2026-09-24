@@ -1,0 +1,29 @@
+CODSOFT JAVA DEVELOPMENT INTERNSHIP
+DEMO VIDEO SCRIPT — TASKS 1 TO 3
+
+INTRODUCTION
+Hello everyone, my name is Farhan Khan.
+This video demonstrates my completed tasks for the CODSOFT Java Development Internship.
+
+TASK 1 — NUMBER GAME
+First, I will demonstrate the Number Guessing Game.
+The program generates a random number between 1 and 100.
+The user gets limited attempts to guess the number.
+The program gives feedback if the guess is too high or too low.
+It also supports multiple rounds and keeps track of the score.
+
+TASK 2 — STUDENT GRADE CALCULATOR
+Next is the Student Grade Calculator.
+The program takes the number of subjects and marks obtained in each subject.
+It calculates the total marks and average percentage.
+Finally, it assigns and displays the corresponding grade.
+
+TASK 3 — ATM INTERFACE
+Finally, I will demonstrate the ATM Interface.
+The user can check the balance, deposit money, or withdraw money.
+The program validates the transaction and prevents withdrawal when the balance is insufficient.
+The ATM is connected with a separate BankAccount class.
+
+CONCLUSION
+These are my three completed Java Development Internship tasks.
+Thank you for watching.
